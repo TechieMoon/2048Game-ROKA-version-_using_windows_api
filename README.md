@@ -2,5 +2,6 @@
 
 visual studio가 설치되어 있어야 합니다.
 
-디버깅을 할 때는 꼭 x64가 아니라 x86으로 바꿔서 실행하셔야 합니다.
+디버깅을 할 때는 아래 사진 처럼 꼭 x64가 아니라 x86으로 바꿔서 실행하셔야 합니다.
 
+![x64_to_x86](https://github.com/TechieMoon/2048Game-ROKA-version-_using_windows_api/blob/main/pictures/x64_to_x86.png)
