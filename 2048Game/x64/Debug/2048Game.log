@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\start\Documents\test_api\2048Game\main.cpp(46,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\start\Documents\test_api\2048Game\main.cpp(168,36): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+main.obj : error LNK2019: __imp_sndPlaySoundW"__int64 __cdecl WndProc(struct HWND__ *,unsigned int,unsigned __int64,__int64)" (?WndProc@@YA_JPEAUHWND__@@I_K_J@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+C:\Users\start\Documents\test_api\2048Game\x64\Debug\2048Game.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.
